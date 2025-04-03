@@ -22,7 +22,7 @@ class _SplashScreenState extends State<SplashScreen> {
     if (FirebaseAuth.instance.currentUser != null) {
       Navigator.pushReplacement(
         context,
-        MaterialPageRoute(builder: (context) => HomePage()),
+        MaterialPageRoute(builder: (context) => CurtainControlPage()),
       );
     } else {
       Navigator.pushReplacement(

@@ -63,7 +63,7 @@ class _LoginScreenState extends State<LoginScreen> {
                         passwordController.text.trim(),
                       );
                       if (user != null) {
-                        Navigator.pushReplacement(context, MaterialPageRoute(builder: (context) => HomePage()));
+                        Navigator.pushReplacement(context, MaterialPageRoute(builder: (context) => CurtainControlPage()));
                       }
                     }
                   },

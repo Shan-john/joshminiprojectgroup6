@@ -74,7 +74,7 @@ class _SignUpScreenState extends State<SignUpScreen> {
                         fullNameController.text.trim(),
                       );
                       if (user != null) {
-                        Navigator.pushReplacement(context, MaterialPageRoute(builder: (context) => HomePage()));
+                        Navigator.pushReplacement(context, MaterialPageRoute(builder: (context) => CurtainControlPage()));
                       }
                     }
                   },

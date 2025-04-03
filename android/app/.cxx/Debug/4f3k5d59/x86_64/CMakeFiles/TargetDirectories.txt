@@ -1,0 +1,2 @@
+C:/Users/shone/Downloads/group6/android/app/.cxx/Debug/4f3k5d59/x86_64/CMakeFiles/edit_cache.dir
+C:/Users/shone/Downloads/group6/android/app/.cxx/Debug/4f3k5d59/x86_64/CMakeFiles/rebuild_cache.dir
